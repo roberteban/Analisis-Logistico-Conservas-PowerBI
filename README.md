@@ -21,7 +21,7 @@ Este proyecto tiene como propósito ayudar a una empresa de conservas de frutas 
 ### **1. Archivo: `ventas.csv`**
 Contiene los datos transaccionales con las siguientes columnas:
 - **Cod_Prov**: Código de la provincia en la que se realizó la venta.
-- **Mes**: Mes en que se registró la venta.
+- **Mes**: Mes y año en que se registró la venta.
 - **Cantidad de Producto**: Número de unidades vendidas.
 - **Producto**: Código de los productos.
 
