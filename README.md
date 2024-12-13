@@ -85,10 +85,12 @@ Incluye tres hojas con datos de referencia:
 
 2. **Producto con Mayor Ventas**:
    - Se identificó que el producto con mayor demanda fue la Mermelada de Frambuesa, lo que facilita una estrategia de abastecimiento más precisa.
+
 ![unidades-producto](imagenes/unidades-producto.PNG)
 
 3. **Mes con Mayores Ventas**:
    - El análisis mostró que Diciembre fue el mes con el mayor volumen de ventas, lo que puede ayudar a planificar campañas logísticas y de marketing estacional.
+
 ![unidades-mes](imagenes/unidades-mes.PNG)
 
 ---
