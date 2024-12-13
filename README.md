@@ -76,9 +76,9 @@ Incluye tres hojas con datos de referencia:
 
 1. **Ubicación del Centro de Distribución**:
    - Se recomienda instalar el centro de distribución en una de las siguientes provincias con mayor volumen de ventas:
-   1. Córdoba
-   2. Buenos Aires
-   3. Mendoza
+     1. Córdoba
+     2. Buenos Aires
+     3. Mendoza
    - Esto optimiza los costos y tiempos de entrega.
 
 ![mapa-unidades](imagenes/mapa-unidades.PNG)
